@@ -1,0 +1,7 @@
+train: D:/ahmed fiver/face detction new model/Face Detection.v24-resize416x416-aug3x-traintestsplitonly.yolov8/train/images
+val: D:/ahmed fiver/face detction new model/Face Detection.v24-resize416x416-aug3x-traintestsplitonly.yolov8/val/images
+test: D:/ahmed fiver/face detction new model/Face Detection.v24-resize416x416-aug3x-traintestsplitonly.yolov8/test/images
+
+nc: 1
+names: ['face']
+
